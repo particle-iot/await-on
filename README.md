@@ -3,6 +3,7 @@
 ![node](https://img.shields.io/node/v/@particle/await-on.svg)
 ![npm](https://img.shields.io/npm/l/@particle/await-on.svg)
 ![npm](https://img.shields.io/npm/dt/@particle/await-on.svg)
+[![Travis](https://travis-ci.com/particle-iot/await-on.svg?branch=master)](https://travis-ci.com/particle-iot/await-on)
 
 Really simple error handling with await/async
 
