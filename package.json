@@ -1,6 +1,6 @@
 {
   "name": "@particle/await-on",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "really simple error handling with await/async",
   "main": "lib/await-on.js",
   "directories": {
