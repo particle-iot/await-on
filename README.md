@@ -1,10 +1,8 @@
 # 😪 @particle/await-on
-![npm](https://img.shields.io/npm/v/await-on.svg)
-![node](https://img.shields.io/node/v/await-on.svg)
-![npm](https://img.shields.io/npm/l/await-on.svg)
-![npm](https://img.shields.io/npm/dt/await-on.svg)
-![Travis](https://img.shields.io/travis/bitstrider/await-on.svg)
-![Coveralls github](https://img.shields.io/coveralls/github/bitstrider/await-on.svg)
+![npm](https://img.shields.io/npm/v/@particle/await-on.svg)
+![node](https://img.shields.io/node/v/@particle/await-on.svg)
+![npm](https://img.shields.io/npm/l/@particle/await-on.svg)
+![npm](https://img.shields.io/npm/dt/@particle/await-on.svg)
 
 Really simple error handling with await/async
 
